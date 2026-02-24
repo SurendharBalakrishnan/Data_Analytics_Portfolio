@@ -1,0 +1,26 @@
+# ============================================================
+# Ignore the actual Excel workbook — contains sensitive
+# personal financial data (loan amounts, account numbers,
+# bank details). Only the PDF export is shared publicly.
+# ============================================================
+*.xlsx
+*.xlsm
+*.xlsb
+*.xls
+
+# Excel temp/lock files
+~$*.xlsx
+~$*.xlsm
+~$*.xls
+
+# CSV source files — may contain raw personal financial data
+*.csv
+
+# Backup files
+*.bak
+
+# OS & editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
