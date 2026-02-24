@@ -171,20 +171,14 @@ Banking Risk Analysis/
     │   └── investment-advisiors.csv   ← 22 investment advisors (excluded)
     │
     ├── Design/
-    │   ├── New Design/                ← Current production screenshots (shared)
-    │   │   ├── Home.png
-    │   │   ├── Summary.png
-    │   │   ├── Loan Analysis.png
-    │   │   ├── Deposit Analysis.png
-    │   │   ├── Drill Through.png
-    │   │   └── Drill Through1.png
-    │   ├── Old Design/                ← Previous design iteration screenshots
-    │   ├── Demo Design/               ← Initial concept screenshots
-    │   └── BG/
-    │       └── Designs.pptx           ← Design mockup deck (excluded)
-```
+    │                 ← Current production screenshots (shared)
+    ├── Home.png
+    ├── Summary.png
+    ├── Loan Analysis.png
+    ├── Deposit Analysis.png
+    ├── Drill Through.png
+    └── Drill Through1.png
 
----
 
 ## Key Analytical Insights
 
