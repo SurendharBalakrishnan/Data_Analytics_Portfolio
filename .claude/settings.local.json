@@ -1,7 +1,11 @@
 {
   "permissions": {
     "allow": [
-      "Bash(python3 -c \":*)"
+      "Bash(python3 -c \":*)",
+      "Bash(file *)",
+      "Bash(wc -l *.csv)",
+      "Bash(head -100 \"e:/Power BI Project 2026/Completed Projects/Data_Analytics_Portfolio/PowerBI/Banking Risk Analysis/BankEDA \\(Version 1\\).ipynb\")",
+      "Bash(du -sh Banking Banking.csv Banking/datasets/* Banking/Dashboard/*)"
     ]
   }
 }

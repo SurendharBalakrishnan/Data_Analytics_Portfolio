@@ -6,7 +6,7 @@ Interactive dashboards and business intelligence reports built with Microsoft Po
 
 | Project | Description |
 |---------|-------------|
-| _(Coming soon)_ | Projects will be listed here |
+| [Banking Risk Analysis](./Banking%20Risk%20Analysis/) | End-to-end Power BI dashboard analyzing 3,000 banking clients across risk profiles, loan portfolios, deposits, loyalty tiers, and investment advisor assignments |
 
 ## Skills Demonstrated
 

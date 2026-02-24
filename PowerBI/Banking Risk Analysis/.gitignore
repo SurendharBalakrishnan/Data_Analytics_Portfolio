@@ -1,0 +1,61 @@
+# ============================================================
+# Power BI Files
+# Large binary files — tracked via Git LFS or excluded.
+# Share dashboard screenshots (PNG) instead of .pbix files
+# unless LFS is configured.
+# ============================================================
+*.pbix
+*.pbit
+
+# ============================================================
+# Data Files — may contain client PII / sensitive records
+# (3,000 banking client records with income, loan, and
+# account-level financial data)
+# ============================================================
+*.csv
+*.xlsx
+*.xlsm
+*.xlsb
+*.xls
+
+# Excel lock/temp files
+~$*.xlsx
+~$*.xlsm
+~$*.xls
+
+# ============================================================
+# Jupyter Notebook outputs — strip outputs before committing,
+# or exclude notebooks if they contain raw data previews
+# ============================================================
+# Uncomment to exclude notebooks entirely:
+# *.ipynb
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# ============================================================
+# Office documents — Word reports and PowerPoint decks
+# containing internal analysis; share exported PDFs instead
+# ============================================================
+*.docx
+*.pptx
+*.ppt
+*.doc
+
+# ============================================================
+# Banking subfolder — specific folders to exclude entirely
+# BG/       : design PowerPoint mockups (Designs.pptx)
+# datasets/ : raw dimension CSV files (clients, advisors, etc.)
+# ============================================================
+Banking/BG/
+Banking/datasets/
+
+# ============================================================
+# OS & editor noise
+# ============================================================
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.bak
+*.swp
