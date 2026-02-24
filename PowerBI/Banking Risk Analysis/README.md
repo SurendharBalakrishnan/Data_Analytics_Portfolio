@@ -10,11 +10,11 @@ A comprehensive **Power BI analytics solution** for monitoring a bank's client p
 
 | Page | Screenshot |
 |------|-----------|
-| Home | ![Home](Banking/Design/New%20Design/Home.png) |
-| Summary | ![Summary](Banking/Design/New%20Design/Summary.png) |
-| Loan Analysis | ![Loan Analysis](Banking/Design/New%20Design/Loan%20Analysis.png) |
-| Deposit Analysis | ![Deposit Analysis](Banking/Design/New%20Design/Deposit%20Analysis.png) |
-| Drill Through | ![Drill Through](Banking/Design/New%20Design/Drill%20Through.png) |
+| Home | ![Home](Banking/Design/Home.png) |
+| Summary | ![Summary](Banking/Design/Summary.png) |
+| Loan Analysis | ![Loan Analysis](Banking/Design/Loan%20Analysis.png) |
+| Deposit Analysis | ![Deposit Analysis](Banking/Design/Deposit%20Analysis.png) |
+| Drill Through | ![Drill Through](Banking/Design/Drill%20Through.png) |
 
 ---
 
