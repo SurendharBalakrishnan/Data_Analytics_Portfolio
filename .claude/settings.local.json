@@ -5,7 +5,15 @@
       "Bash(file *)",
       "Bash(wc -l *.csv)",
       "Bash(head -100 \"e:/Power BI Project 2026/Completed Projects/Data_Analytics_Portfolio/PowerBI/Banking Risk Analysis/BankEDA \\(Version 1\\).ipynb\")",
-      "Bash(du -sh Banking Banking.csv Banking/datasets/* Banking/Dashboard/*)"
+      "Bash(du -sh Banking Banking.csv Banking/datasets/* Banking/Dashboard/*)",
+      "Bash(find \"E:\\\\Power BI Project 2026\\\\Completed Projects\\\\Data_Analytics_Portfolio\\\\PowerBI\\\\Email_Marketing\" -type f -exec ls -lh {} ;)",
+      "Bash(python3:*)",
+      "Bash(unzip -l \"Email Marketing Analysis.xlsx\")",
+      "Bash(unzip -p \"Email Marketing Analysis.xlsx\" \"xl/workbook.xml\")",
+      "Bash(unzip -p \"Email Marketing Analysis.xlsx\" \"xl/sharedStrings.xml\")",
+      "Bash(unzip -l \"Email Marketing Analysis.pbix\")",
+      "Bash(unzip -p \"Email Marketing Analysis.pbix\" \"Metadata\")",
+      "Bash(unzip -p \"Email Marketing Analysis.pbix\" \"Report/Layout\")"
     ]
   }
 }

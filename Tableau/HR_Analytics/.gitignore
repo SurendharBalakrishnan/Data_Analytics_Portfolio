@@ -1,0 +1,56 @@
+# ============================================================
+# Tableau Files
+# .twbx (packaged workbook) bundles data inside — exclude it.
+# .twb (workbook only) is XML — safe to commit if data is
+# excluded separately. Adjust based on your preference.
+# ============================================================
+*.twbx
+*.tde
+*.hyper
+
+# Uncomment to also exclude the workbook XML:
+# *.twb
+
+# ============================================================
+# Data Files — contains 1,470 employee records with PII
+# (employee IDs, department, compensation, satisfaction
+# scores, age, gender, marital status). Excluded to protect
+# employee data privacy.
+# ============================================================
+*.xlsx
+*.xlsm
+*.xlsb
+*.xls
+*.csv
+
+# Excel lock/temp files
+~$*.xlsx
+~$*.xlsm
+~$*.xls
+
+# ============================================================
+# Office documents
+# ============================================================
+*.docx
+*.pptx
+*.ppt
+*.doc
+
+# ============================================================
+# Tableau Desktop temp / cache files
+# ============================================================
+*.tds
+*.tdsx
+*.tfl
+*.tflx
+Tableau Temp/
+
+# ============================================================
+# OS & editor noise
+# ============================================================
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.bak
+*.swp

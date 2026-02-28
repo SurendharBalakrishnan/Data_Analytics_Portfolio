@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find \"E:\\\\Power BI Project 2026\\\\Completed Projects\\\\Data_Analytics_Portfolio\\\\Tableau\\\\HR_Analytics\" -type f -exec ls -lh {} ;)",
+      "Read(//e/Power BI Project 2026/Completed Projects/Data_Analytics_Portfolio/**)",
+      "Bash(unzip -l \"E:/Power BI Project 2026/Completed Projects/Data_Analytics_Portfolio/Tableau/HR_Analytics/HR DATA ANALYTICS.twb\")"
+    ]
+  }
+}
