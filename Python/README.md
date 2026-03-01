@@ -6,7 +6,7 @@ Data analysis, visualization, and automation projects using Python.
 
 | Project | Description |
 |---------|-------------|
-| _(Coming soon)_ | Projects will be listed here |
+| [Credit Card EMI Analyzer](./Credit_Card_Emi/) | End-to-end Python pipeline that auto-fetches credit card PDF statements from Gmail via IMAP, extracts data from 187 password-protected PDFs (HDFC & IDFC), and loads into a Power BI dashboard for 6-year spending analysis |
 
 ## Skills Demonstrated
 

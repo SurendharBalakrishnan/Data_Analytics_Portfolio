@@ -6,7 +6,7 @@ Data analysis, reporting, and automation projects built with Microsoft Excel.
 
 | Project | Description |
 |---------|-------------|
-| _(Coming soon)_ | Projects will be listed here |
+| [Personal Finance & Debt Tracker](./personal_finance_excel_dashbaord/) | Interactive Excel dashboard tracking 13 active loans across 5 lenders (HDFC, IDFC, Ind Money, IOB Bank, Kamalam Bankers) — consolidating EMI schedules, outstanding balances, and repayment projections through December 2027 |
 
 ## Skills Demonstrated
 
