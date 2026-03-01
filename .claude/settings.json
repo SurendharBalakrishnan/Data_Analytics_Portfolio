@@ -3,7 +3,11 @@
     "allow": [
       "Bash(find \"E:\\\\Power BI Project 2026\\\\Completed Projects\\\\Data_Analytics_Portfolio\\\\Tableau\\\\HR_Analytics\" -type f -exec ls -lh {} ;)",
       "Read(//e/Power BI Project 2026/Completed Projects/Data_Analytics_Portfolio/**)",
-      "Bash(unzip -l \"E:/Power BI Project 2026/Completed Projects/Data_Analytics_Portfolio/Tableau/HR_Analytics/HR DATA ANALYTICS.twb\")"
+      "Bash(unzip -l \"E:/Power BI Project 2026/Completed Projects/Data_Analytics_Portfolio/Tableau/HR_Analytics/HR DATA ANALYTICS.twb\")",
+      "Bash(head -150 \"BenchMark - Consolidated KPI Query – Users & Activity \\(Platform-wise\\).sql\")",
+      "Bash(wc -l \"Bench mark validation.sql\" \"BenchMark - Consolidated KPI Query – Users & Activity \\(Platform-wise\\).sql\" datasets/Jotstar_db.sql datasets/LioCinema_db.sql)",
+      "Bash(jupyter nbconvert --to script 01_data_quality_report.ipynb --stdout)",
+      "Bash(done)"
     ]
   }
 }

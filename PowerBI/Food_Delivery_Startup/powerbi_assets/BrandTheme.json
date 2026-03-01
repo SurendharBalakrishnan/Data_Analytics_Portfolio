@@ -1,0 +1,52 @@
+{
+    "name": "Corporate Dashboard Theme",
+    "dataColors": [
+        "#1A2744",
+        "#0D8A8A",
+        "#E8743B",
+        "#5B9BD5",
+        "#D94F4F",
+        "#2ECC71",
+        "#888888",
+        "#FFFFFF"
+    ],
+    "background": "#F0F7F7",
+    "visualStyles": {
+        "*": {
+            "*": {
+                "title": [{
+                    "show": true,
+                    "fontFamily": "Segoe UI",
+                    "fontSize": 18,
+                    "fontColor": { "solid": { "color": "#1A2744" } }
+                }],
+                "labels": [{
+                    "fontFamily": "Segoe UI",
+                    "fontSize": 10,
+                    "color": { "solid": { "color": "#888888" } }
+                }],
+                "categoryAxis": [{
+                    "show": true,
+                    "labelColor": { "solid": { "color": "#888888" } },
+                    "fontSize": 10,
+                    "fontFamily": "Segoe UI"
+                }],
+                "valueAxis": [{
+                    "show": true,
+                    "labelColor": { "solid": { "color": "#888888" } },
+                    "fontSize": 10,
+                    "fontFamily": "Segoe UI"
+                }]
+            }
+        },
+        "card": {
+            "*": {
+                "labels": [{
+                    "fontFamily": "Segoe UI",
+                    "fontSize": 28,
+                    "color": { "solid": { "color": "#0D8A8A" } }
+                }]
+            }
+        }
+    }
+}

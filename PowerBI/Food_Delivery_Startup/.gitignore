@@ -1,0 +1,103 @@
+# ============================================================
+# Python
+# ============================================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# ============================================================
+# Virtual Environment — large (~150 MB), never commit
+# ============================================================
+.venv/
+venv/
+env/
+
+# ============================================================
+# Power BI Dashboard — binary, large (35 MB)
+# Share dashboard screenshots instead
+# ============================================================
+*.pbix
+*.pbit
+
+# ============================================================
+# Data Files — 8 CSV files totalling 69 MB with order,
+# customer, restaurant, and delivery partner records
+# ============================================================
+Datasets/
+*.csv
+*.xlsx
+*.xlsm
+*.xlsb
+*.xls
+~$*.xlsx
+~$*.xlsm
+
+# ============================================================
+# Output folder — generated analysis files, PNGs, CSVs
+# Notebooks (.ipynb) in root are committed; generated
+# output artifacts are excluded
+# ============================================================
+output/
+
+# ============================================================
+# PDF Documents — project briefs and guides
+# ============================================================
+*.pdf
+
+# ============================================================
+# Large image assets in powerbi_assets/ — brand reference
+# images (6.2 MB homepage screenshot, etc.)
+# Small design assets (logos, card templates) can stay.
+# ============================================================
+powerbi_assets/quick bite express homepage.png
+powerbi_assets/quick bite express.png
+powerbi_assets/external research.png
+
+# ============================================================
+# Video / presentation files
+# ============================================================
+*.mp4
+*.mov
+*.avi
+
+# ============================================================
+# Jupyter Notebook checkpoints
+# ============================================================
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ============================================================
+# Secrets & credentials
+# ============================================================
+.env
+*.secret
+config/credentials.*
+
+# ============================================================
+# IDE & editor noise
+# ============================================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ============================================================
+# OS noise
+# ============================================================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ============================================================
+# Logs & temp
+# ============================================================
+*.log
+*.tmp
+tmp/
+temp/

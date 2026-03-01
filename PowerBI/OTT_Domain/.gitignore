@@ -1,0 +1,75 @@
+# ============================================================
+# Power BI Dashboard — binary file, large (33 MB)
+# Share dashboard screenshots instead of committing .pbix
+# ============================================================
+*.pbix
+*.pbit
+
+# ============================================================
+# Database dumps — large SQL files with full INSERT data
+# Jotstar_db.sql (7.7 MB) + LioCinema_db.sql (28 MB)
+# Contains subscriber records, content, and consumption data
+# ============================================================
+datasets/
+*.sql
+
+# ============================================================
+# Data files — if exported to CSV/Excel
+# ============================================================
+*.csv
+*.xlsx
+*.xlsm
+*.xlsb
+*.xls
+~$*.xlsx
+~$*.xlsm
+
+# ============================================================
+# PDF Documents — project briefs, problem statements,
+# evaluation criteria, and guides
+# ============================================================
+*.pdf
+
+# ============================================================
+# Large image assets — video presentation backgrounds
+# and brand reference images
+# ============================================================
+video_presentation_background_img.jpg
+
+# ============================================================
+# Office documents
+# ============================================================
+*.docx
+*.pptx
+*.ppt
+*.doc
+
+# ============================================================
+# Screenshots folder — add PNGs here; folder committed
+# once screenshots are added
+# ============================================================
+# Screenshots/     ← uncomment to exclude all screenshots
+
+# ============================================================
+# Claude IDE config — local project settings, not for repo
+# ============================================================
+.claude/
+
+# ============================================================
+# OS & editor noise
+# ============================================================
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+
+# ============================================================
+# Logs & temp
+# ============================================================
+*.log
+tmp/
+temp/
