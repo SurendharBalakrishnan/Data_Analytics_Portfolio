@@ -2,6 +2,8 @@
 
 A **Power BI dashboard** built on a 10,000-record Indian customer database to support targeted email marketing campaigns — segmenting customers by demographics, geography, family composition, and account status.
 
+> **Live Dashboard:** [View on Power BI](https://app.powerbi.com/view?r=eyJrIjoiOTJkYWI0OGYtNzRmYS00OTQ2LTkxNjAtOTgwOGM2OGIyYWRiIiwidCI6ImFiZWU3YjhjLTQ1MWQtNDNlMy05MmI0LTMwNjE0OWI1YjVkYyJ9)
+
 > **Note:** The `.pbix` dashboard file and all data files (`.xlsx`, `.csv`) are excluded from this repository via `.gitignore` to protect customer data privacy.
 
 ---

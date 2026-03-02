@@ -2,6 +2,8 @@
 
 A comprehensive **Power BI analytics solution** for monitoring a bank's client portfolio — covering risk profiling, loan and deposit analysis, client segmentation, and investment advisor performance across 3,000 banking clients.
 
+> **Live Dashboard:** [View on Power BI](https://app.powerbi.com/view?r=eyJrIjoiOGY3MjA0ZGEtYTU3ZC00N2Y5LWIyZWMtYjdmZmM0NzI1N2VkIiwidCI6ImFiZWU3YjhjLTQ1MWQtNDNlMy05MmI0LTMwNjE0OWI1YjVkYyJ9)
+
 > **Note:** The `.pbix` dashboard file, all CSV datasets, Excel workbook, and Office documents are excluded from this repository via `.gitignore`. Dashboard screenshots are shared publicly under `Banking/Design/New Design/`.
 
 ---

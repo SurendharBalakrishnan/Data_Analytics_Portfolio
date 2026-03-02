@@ -2,6 +2,8 @@
 
 A full end-to-end **data analytics project** for a food delivery startup that suffered a viral food safety incident followed by a platform outage — covering a complete Python data pipeline (cleaning → EDA → deep analysis) and a 6-page **Power BI dashboard** built on 837,000+ order records spanning 9 months.
 
+> **Live Dashboard:** [View on Power BI](https://app.powerbi.com/view?r=eyJrIjoiYjE3ZWFmM2YtMGI4ZC00ZjExLThkZGItNDNkMzVlODVjNTg1IiwidCI6ImFiZWU3YjhjLTQ1MWQtNDNlMy05MmI0LTMwNjE0OWI1YjVkYyJ9)
+
 > **Note:** The `.pbix` dashboard, all CSV datasets, and generated output files are excluded from this repository via `.gitignore`. Jupyter notebooks and design assets are committed.
 
 ---

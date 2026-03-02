@@ -2,6 +2,8 @@
 
 A **Power BI dashboard** and SQL-based analytics project built for a CodeBasics Resume Project Challenge — comparing two Indian OTT streaming platforms (LioCinema and Jotstar) to support a strategic merger decision by Lio, India's leading telecom provider.
 
+> **Live Dashboard:** [View on Power BI](https://app.powerbi.com/view?r=eyJrIjoiZTViYmZjOTAtOTJhMC00N2ZkLWEwMzgtYTc3MTFkODk4ZDQyIiwidCI6ImFiZWU3YjhjLTQ1MWQtNDNlMy05MmI0LTMwNjE0OWI1YjVkYyJ9)
+
 > **Note:** The `.pbix` dashboard, all SQL database dumps, and PDF documents are excluded from this repository via `.gitignore`. SQL analysis scripts and design assets are committed.
 
 ---

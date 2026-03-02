@@ -21,6 +21,8 @@ Covers statement history (2021–2025) across two banks, processing **187 PDF fi
 
 ## Demo
 
+> **Live Dashboard:** [View on Power BI](https://app.powerbi.com/view?r=eyJrIjoiMjc4NzQyZmYtN2I2ZC00ZGY1LTgxM2ItMWUwNTU4ZGUwNDkzIiwidCI6ImFiZWU3YjhjLTQ1MWQtNDNlMy05MmI0LTMwNjE0OWI1YjVkYyJ9)
+
 > Power BI dashboard (`PowerBi/CreditCardProject.pbix`) provides:
 > - Monthly and yearly spending trends
 > - Bank-wise statement comparisons
