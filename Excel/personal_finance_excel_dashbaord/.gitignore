@@ -19,6 +19,9 @@
 # Backup files
 *.bak
 
+# Claude IDE config — local project settings, not for repo
+.claude/
+
 # OS & editor noise
 .DS_Store
 Thumbs.db
