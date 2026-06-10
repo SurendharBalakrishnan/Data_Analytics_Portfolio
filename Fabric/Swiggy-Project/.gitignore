@@ -1,0 +1,14 @@
+# Power BI workbook — binary, large file
+*.pbix
+*.pbit
+
+# Raw datasets — excluded to protect data privacy
+data/
+
+# Project documents — Word/PowerPoint source files
+documents/
+
+# OS noise
+.DS_Store
+Thumbs.db
+desktop.ini

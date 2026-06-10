@@ -1,0 +1,11 @@
+# Raw datasets — large data files excluded from version control
+Source/*.csv
+
+# Source documents — Word/PowerPoint files excluded
+Source/*.docx
+Source/*.pptx
+
+# OS noise
+.DS_Store
+Thumbs.db
+desktop.ini

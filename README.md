@@ -7,6 +7,7 @@ A collection of data analytics projects showcasing skills across multiple tools 
 | Folder | Description |
 |--------|-------------|
 | [PowerBI](./PowerBI/) | Interactive dashboards and business intelligence reports built with Power BI |
+| [Fabric](./Fabric/) | End-to-end data analytics pipelines built with Microsoft Fabric — Lakehouse, Data Warehouse, SQL, and Power BI |
 | [Excel](./Excel/) | Data analysis, pivot tables, and reporting using Microsoft Excel |
 | [Python](./Python/) | Data analysis, visualization, and automation scripts using Python |
 | [Tableau](./Tableau/) | Visual analytics and dashboards built with Tableau |
@@ -15,6 +16,7 @@ A collection of data analytics projects showcasing skills across multiple tools 
 ## Tools & Technologies
 
 - **Power BI** — DAX, Power Query, Data Modeling
+- **Microsoft Fabric** — Lakehouse, Data Warehouse, Dataflow Gen2, Power BI Semantic Model
 - **Excel** — Pivot Tables, Power Query, VBA
 - **Python** — Pandas, NumPy, Matplotlib, Seaborn
 - **Tableau** — Calculated Fields, LOD Expressions, Dashboards
