@@ -2,6 +2,8 @@
 
 An **end-to-end data analytics project** built on Swiggy's food delivery data — covering the full pipeline from raw data ingestion in a **Fabric Lakehouse** through SQL cleaning, **Data Warehouse** star schema modelling, a **Power BI Semantic Model**, and an interactive **Power BI dashboard** analysing ₹53M in sales across 197K orders.
 
+> **Dashboard PDF:** [View Report](https://github.com/SurendharBalakrishnan/Data_Analytics_Portfolio/blob/main/Fabric/Swiggy-Project/Swiggy_Report.pdf)
+
 > **Note:** The `.pbix` dashboard file and all raw CSV datasets are excluded from this repository via `.gitignore`. Dashboard PDF export and design images are committed.
 
 ---
