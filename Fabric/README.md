@@ -7,7 +7,7 @@ End-to-end data analytics pipelines built with Microsoft Fabric — covering dat
 | Project | Description | Live Dashboard |
 |---------|-------------|---------------|
 | [Swiggy Food Analytics](./Swiggy-Project/) | End-to-end Fabric pipeline on 197K Swiggy orders — Lakehouse ingestion → SQL cleaning → Data Warehouse star schema → Power BI dashboard analysing ₹53M in sales across restaurants, locations, and food types | [View PDF](https://github.com/SurendharBalakrishnan/Data_Analytics_Portfolio/blob/main/Fabric/Swiggy-Project/Swiggy_Report.pdf) |
-| [Finance Analytics](./Finanace-Domain-Project/) | SQL-based finance analytics on 50K transactions — fraud detection, revenue segmentation, and 27 business KPIs using Fabric + Dataflow Gen2 + Warehouse *(dashboard coming soon)* | — |
+| [Finance Analytics](./Finanace-Domain-Project/) | End-to-end Fabric pipeline on 55K records — Dataflow Gen2 cleaning → Data Warehouse modelling → 27 SQL KPI queries covering fraud detection, revenue segmentation, and customer behaviour analysis | — |
 
 ## Skills Demonstrated
 
