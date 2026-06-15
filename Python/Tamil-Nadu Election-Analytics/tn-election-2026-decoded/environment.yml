@@ -1,0 +1,16 @@
+name: tn-election
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - plotly
+  - jupyter
+  - openpyxl
+  - pip
+  - pip:
+    - python-pptx
+    - streamlit

@@ -1,0 +1,22 @@
+# Codebasics RPC challenge documents — not portfolio material
+How_to_Submit.docx
+Readme-first-brief.docx
+rpc-email.html
+research_questions_and_recommendations.docx
+
+# Outer data folder — same CSVs already inside tn-election-2026-decoded/data/raw/
+# Leading slash anchors to this directory only (not the inner tn-election-2026-decoded/data/)
+/data/
+
+# Generated PowerPoint deck — large binary output
+tn-election-2026-decoded/deck/*.pptx
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS noise
+.DS_Store
+Thumbs.db
+desktop.ini

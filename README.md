@@ -18,6 +18,6 @@ A collection of data analytics projects showcasing skills across multiple tools 
 - **Power BI** — DAX, Power Query, Data Modeling
 - **Microsoft Fabric** — Lakehouse, Data Warehouse, Dataflow Gen2, Power BI Semantic Model
 - **Excel** — Pivot Tables, Power Query, VBA
-- **Python** — Pandas, NumPy, Matplotlib, Seaborn
+- **Python** — Pandas, NumPy, Matplotlib, Seaborn, Plotly, python-pptx
 - **Tableau** — Calculated Fields, LOD Expressions, Dashboards
 - **AI & Automation** — Machine Learning, Workflow Automation

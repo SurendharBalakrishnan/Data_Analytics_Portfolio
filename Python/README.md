@@ -7,6 +7,7 @@ Data analysis, visualization, and automation projects using Python.
 | Project | Description | Live Dashboard |
 |---------|-------------|---------------|
 | [Credit Card EMI Analyzer](./Credit_Card_Emi/) | End-to-end Python pipeline that auto-fetches credit card PDF statements from Gmail via IMAP, extracts data from 187 password-protected PDFs (HDFC & IDFC), and loads into a Power BI dashboard for 6-year spending analysis | [View](https://app.powerbi.com/view?r=eyJrIjoiMjc4NzQyZmYtN2I2ZC00ZGY1LTgxM2ItMWUwNTU4ZGUwNDkzIiwidCI6ImFiZWU3YjhjLTQ1MWQtNDNlMy05MmI0LTMwNjE0OWI1YjVkYyJ9) |
+| [Tamil Nadu Election 2026](./Tamil-Nadu%20Election-Analytics/) | End-to-end election analytics on 8,500 candidate rows across 234 constituencies — EDA → Plotly charts (Sankey, vote share, margins, regional) → auto-generated 10-slide editorial deck via python-pptx for Codebasics RPC | — |
 
 ## Skills Demonstrated
 
@@ -15,3 +16,4 @@ Data analysis, visualization, and automation projects using Python.
 - Data Cleaning & Wrangling
 - Exploratory Data Analysis (EDA)
 - Automation & Scripting
+- Programmatic Report Generation (python-pptx)
